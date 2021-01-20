@@ -8,7 +8,7 @@
 #include <x86intrin.h> // Pour estimer le nb de cycles.
 #include <stdio.h>
 #include <time.h>
-#include "mysterion_ext.h"
+#include "mysterion.h"
 #define NB_128_WORDS_FOR_BENCHMARKING 10000
 
 #define init_cpucycles()
